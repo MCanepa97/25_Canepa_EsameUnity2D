@@ -1,2 +1,2 @@
-# EsameUnity2D_11_06
+# 25_Canepa_EsameUnity2D
 this repo contains the game developed on unity engine
